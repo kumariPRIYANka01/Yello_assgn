@@ -1,0 +1,29 @@
+.Login {
+  padding: relative;
+  text-align: center;
+  background-color: white;
+  height: 20px;
+}
+  
+.Login form {
+ margin: 0 auto;
+ max-width: 3200px;
+
+
+}
+.button {
+    color:aqua;
+    height: 20px;
+    width: 40%;
+    text-align: center;
+    background-color: aliceblue;
+}
+ 
+*{
+      background-color: lightblue;
+}
+.id{
+    border: 20px;
+    height: 200px;
+    width: 40px;
+}
